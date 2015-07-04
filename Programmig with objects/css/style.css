@@ -1,0 +1,74 @@
+/*Body Propietys*/
+body {
+	background-color: white;
+	font-family: Helvetica;
+	padding: 20px 10px;
+	max-width: 2000px;
+	margin: 0 auto;
+	font-size: 1.6em;
+}
+
+/*Firts Title*/
+h1 {
+	text-align: center;
+	color: #00BFFF;
+}
+
+/*All p tags*/
+p {
+	margin: 10px 0;
+}
+
+/*The lists*/
+ul {
+	list-style: none;
+	/* this gets rid of the bullets
+that show up on the list*/
+}
+li {
+	font-size: 20px;
+	line-height: 44px;
+}
+
+/*All lessons*/
+.lesson {
+	background-color: #294860;
+	border-radius: 20px;
+	color: white;
+	padding: 10px;
+	margin: 10px auto;
+}
+h2 {
+	margin: 10px;
+}
+
+/***** Concept Div *****/
+.concept {
+	background-color: #9AFE2E;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: black;
+}
+
+/***** Concept Title Div *****/
+.concept-title {
+	font-size: 28px;
+	margin: 8px;
+	text-align: center;
+	color: #2E64FE;
+}
+
+/***** Concept Content Div *****/
+.concept-description {
+	font-weight: lighter;
+	margin: 6px;
+}
+
+/***** Span Tags *****/
+span.code {
+	font-family: Courier;
+	background-color: #BBBBBB;
+	padding: 2px 4px;
+	font-weight: bold;
+}
